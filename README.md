@@ -20,6 +20,8 @@ My work reflects a keen eye for detail and a relentless pursuit of excellence in
 
 ---
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/qOsVmVlBHSs)](https://youtu.be/qOsVmVlBHSs)
+
 <!--
 **Glabay/Glabay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
