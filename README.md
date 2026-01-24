@@ -12,6 +12,8 @@ My love for the Java programming language runs deep.
 I have become a quick and precise diagnostician when it comes to Java debugging. Over the course of my career, I have successfully delivered numerous projects, demonstrating a commitment to quality and innovation. 
 My work reflects a keen eye for detail and a relentless pursuit of excellence in software development.
 ### 🔗 Other places you can find me
+[![wakatime](https://wakatime.com/badge/user/822c4554-e639-4dba-8932-b08a0f0f8236.svg)](https://wakatime.com/@822c4554-e639-4dba-8932-b08a0f0f8236)
+
 [Discord](https://discord.gg/pQpCNMrKDq)
 
 [YouTube](https://youtube.com/@Glabay)
